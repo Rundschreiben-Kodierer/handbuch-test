@@ -1,0 +1,117 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rundschreiben Kodierer – Allgemeine Angaben</title><link>https://rundschreiben-kodierer.github.io/handbuch-test/de/faq_old/allgemeine_angaben/</link><description>Recent content in Allgemeine Angaben on Rundschreiben Kodierer</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://rundschreiben-kodierer.github.io/handbuch-test/de/faq_old/allgemeine_angaben/index.xml" rel="self" type="application/rss+xml"/><item><title>Faq_old: Rollen und Stakeholder</title><link>https://rundschreiben-kodierer.github.io/handbuch-test/de/faq_old/allgemeine_angaben/rollen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rundschreiben-kodierer.github.io/handbuch-test/de/faq_old/allgemeine_angaben/rollen/</guid><description>
+&lt;div class="faq-block ">
+Um alle Fragen zu öffnen:
+&lt;span class="collapsible-group-command "
+collapsed-text="Alle erweitern"
+expanded-text="Alle reduzieren"
+group-id="Rollen"
+>
+&lt;i class="collapsible-group-command__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um alle zu erweitern/reduzieren">&lt;/i>
+&lt;button type="button" class="collapsible-group-command__button">&lt;/button>
+&lt;/span>
+&lt;ol class="numbered-list ">
+&lt;li class="list-item ">
+Wen kontaktiert das Spital, wenn es inhaltliche Fragen betreffend der SpiGes Erhebung hat?
+&lt;div class="collapsible-block "
+group-id="Rollen"
+collapsed-text="Antwort"
+expanded-text="Antwort"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Bei fachlichen oder technischen Fragen zur SpiGes wendet sich das Spital primär an seine zuständige kantonale Erhebungsstelle.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Wie sieht die Rolle der Kantone, insbesondere der kantonalen Erhebungspartner, zukünftig aus?
+&lt;div class="collapsible-block "
+group-id="Rollen"
+collapsed-text="Antwort"
+expanded-text="Antwort"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+&lt;ul>
+&lt;li>
+&lt;p>Die kantonalen Erhebungsstellen wirken bei der BFS Erhebung mit wie bisher (Grundgesamtheit, Koordination und Kommunikation Spital, Mahnwesen usw.).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Das zuständige kantonale Gesundheitsamt gibt neu Ende Juli die Daten der Spitalunternehmen auf ihrem Hoheitsgebiet für die Nutzung nach KVG auf der SpiGes Plattform frei.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Es gibt in SpiGes freiwillige Variablen, welche gemäss Vorgabe des Kantons ausgefüllt werden können. Bis wann muss der Kanton den Betrieben bzw. dem BFS mitteilen, welche Variablen ausgefüllt werden sollen. Ist der Kanton hier frei in der Entscheidung, welche freiwilligen Elemente ausgefüllt werden müssen?
+&lt;div class="collapsible-block "
+group-id="Rollen"
+collapsed-text="Antwort"
+expanded-text="Antwort"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Die Kantone teilen ihren Spitälern die Bereitstellung der freiwilligen Variablen (z. B. op_gln) früh genug mit, damit diese ab den Daten 2024 im Spitalsystem erfasst werden. Der Kanton beschliesst gemäss seinen Vorgaben im Gesundheitsbereich, welche bei diesen Variablen spezifischer als die nationalen Vorgaben sein können.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Die Spitäler wünschen sich eine Informationsveranstaltung, damit sie einen besseren Überblick über die bevorstehenden Anforderungen erhalten. Ist eine solche vom BFS geplant?
+&lt;div class="collapsible-block "
+group-id="Rollen"
+collapsed-text="Antwort"
+expanded-text="Antwort"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Das BFS hat bereits 4 Infoveranstaltungen für ein breites Publikum durchgeführt, hier haben auch einige Spitäler teilgenommen. H+ hat seine Spitäler jeweils darüber informiert. Da zum jetzigen Zeitpunkt nicht mehr konzeptuelle Fragen, sondern sehr spezifische Themen auftauchen, sieht das BFS einen solchen Grossanlass nicht als das geeignete Instrument an. Das BFS sammelt die eingegangenen Fragen und wird die FAQ auf der SpiGes Webseite hochschalten.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Können künftig auch die Anforderungen des ANQ mit dem XML-File erfüllt werden?
+&lt;div class="collapsible-block "
+group-id="Rollen"
+collapsed-text="Antwort"
+expanded-text="Antwort"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Das BFS ist mit dem ANQ in Kontakt, um die SpiGes Variablen und Formate abzugleichen.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li class="list-item ">
+Können Sie mir die gesetzliche Grundlage nennen, die die Krankenhäuser verpflichtet, die Statistik zu übermitteln?
+&lt;div class="collapsible-block "
+group-id="Rollen"
+collapsed-text="Antwort"
+expanded-text="Antwort"
+>
+&lt;span>
+&lt;i class="collapsible-block__icon fas" data-bs-toggle="tooltip" data-bs-placement="top" title="Klicken Sie hier, um zu erweitern/reduzieren">&lt;/i>
+&lt;button type="button" class="collapsible-block__button">&lt;/button>
+&lt;/span>
+&lt;div class="collapsible-block__content">
+Gemäss Art. 23 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG; SR 832.10), Art. 6 Abs. 4 des Bundesstatistikgesetzes vom 9. Oktober 1992 (BStatG; SR 431.01), Art. 6 Abs. 1 der Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes (SR 431. 012.1) und den Bestimmungen über die Krankenhausstatistik und der Medizinischen Statistik im Anhang der genannten Verordnung sind alle Krankenhäuser verpflichtet, dem Bundesamt für Statistik die erforderlichen Daten in der vorgeschriebenen Form und innerhalb der festgesetzten Frist zu liefern.
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>
